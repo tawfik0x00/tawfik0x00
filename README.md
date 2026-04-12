@@ -14,7 +14,7 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me
 
@@ -24,48 +24,44 @@ var mohamed = new Developer
     Name        = "Mohamed Tawfik",
     Location    = "Egypt 🇪🇬",
     University  = "Computer Science — 3rd Year",
-    Program     = "DEPI Fullstack Development (C# Track)",
+    Program     = "DEPI Fullstack Development (ASP.NET)",
     Interests   = new[] { "Web Development", "Cybersecurity", "Linux", "Open Source" },
     CurrentFocus = "Building scalable web apps with ASP.NET Core & EF Core",
     OpenToWork  = true
 };
 ```
 
----
-
-## 🚀 Currently Working On
-
-<div align="center">
-
-| 🏛️ Program | 📚 What I'm Learning |
-|---|---|
-| **DEPI Fullstack .NET** | C# · Entity Framework · SQL Server · MVC · ASP.NET Core |
-
-</div>
-
-> 🎯 **Goal:** Become a proficient Full-Stack .NET Developer, ship real-world projects, and contribute to open source.
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
-
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,java,python,js,html,css&theme=dark&perline=8)](https://skillicons.dev)
+**💡 Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+**🌐 Frameworks**
+
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,flask,fastapi,sqlite&theme=dark&perline=8)](https://skillicons.dev)
+
+<br/>
+
+**🔧 Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,azure,aws,docker,vscode,visualstudio,postman,neovim,obsidian&theme=dark&perline=11)](https://skillicons.dev)
+
+<br/>
+
+**🖥️ OS & Shell**
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,arch,kali,ubuntu,debian,mint,windows,powershell&theme=dark&perline=9)](https://skillicons.dev)
 
 </div>
 
-### 🌐 Frameworks & Tools
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=dotnet,git,github,linux,vscode,visualstudio,mysql&theme=dark&perline=8)](https://skillicons.dev)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📜 Certifications & Courses
 
@@ -80,13 +76,11 @@ var mohamed = new Developer
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-### 🔢 By the Numbers
 
 ![Followers](https://img.shields.io/github/followers/tawfik0x00?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1f6feb)
 ![Stars](https://img.shields.io/github/stars/tawfik0x00?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=1f6feb)
@@ -94,29 +88,26 @@ var mohamed = new Developer
 
 <br/>
 
-### 🔥 Contribution Streak
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=tawfik0x00&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
 
 <br/>
-
-### 📈 Contribution Activity
 
 [![Tawfik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tawfik0x00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💡 Random Dev Quote
+<h2>
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="30" alt="Snake Icon" />
+  GitHub Activity
+</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/3bdo-Yahya/3bdo-Yahya/output/github-snake-dark.svg" alt="GitHub Snake" />
+</p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
