@@ -61,8 +61,7 @@ var MohamedTawfik = new Developer {
 </h2>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tawfik0x00&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfik0x00&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfik0x00&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
 </p>
 
 
