@@ -37,7 +37,7 @@ var MohamedTawfik = new Developer {
   Tech Stack
 </h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,c,cpp,js,html,css,bootstrap,flask,fastapi,sqlserver,postgres,sqlite,git,github,gitlab,docker,githubactions,linux,ubuntu,debian,arch,kali,powershell,bash,vscode,visualstudio,azure,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,c,cpp,js,html,css,bootstrap,flask,postgres,sqlite,git,github,gitlab,docker,linux,ubuntu,debian,kali,powershell,bash,vscode,visualstudio,azure,aws&perline=10" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -65,16 +65,7 @@ var MohamedTawfik = new Developer {
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tawfik0x00&theme=radical&hide_border=true&show_icons=true&bg_color=0D1117" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2>
-  <img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="30" style="vertical-align: middle;" />
-  Activity Graph
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tawfik0x00&custom_title=Mohamed%20Tawfik's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" alt="Contribution Graph" />
-</p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
