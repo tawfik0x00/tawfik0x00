@@ -1,120 +1,241 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=200&section=header&text=Mohamed%20Tawfik&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20.NET%20Developer&descAlignY=58&descColor=8b949e&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Mohamed%20Tawfik&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Security-Minded%20Full-Stack%20.NET%20Developer&descAlignY=58&descColor=8b949e&descSize=18" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=CS+Student+%40+3rd+Year+%F0%9F%8E%93;Full-Stack+.NET+Developer+%F0%9F%92%BB;Currently+in+DEPI+Program+%F0%9F%9A%80;Always+learning%2C+always+building+%E2%9C%A8)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m0hamedtawfik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m0hamedtawfik)
-[![GitHub](https://img.shields.io/badge/GitHub-tawfik0x00-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tawfik0x00)
-[![Profile Views](https://komarev.com/ghpvc/?username=tawfik0x00&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)](https://github.com/tawfik0x00)
+<a href="https://linkedin.com/in/m0hamedtawfik">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/tawfik0x00">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# About Me
 
-## 👨‍💻 About Me
+I'm a Computer Science student who builds full-stack software and studies how systems actually work underneath — from the network stack to memory layout to how an authentication flow can fail.
 
-```csharp
-var mohamed = new Developer
-{
-    Name        = "Mohamed Tawfik",
-    Location    = "Egypt 🇪🇬",
-    University  = "Computer Science — 3rd Year",
-    Program     = "DEPI Fullstack Development (ASP.NET)",
-    Interests   = new[] { "Web Development", "Cybersecurity", "Linux", "Open Source" },
-    CurrentFocus = "Building scalable web apps with ASP.NET Core & EF Core",
-    OpenToWork  = true
-};
+My day-to-day development is in the .NET ecosystem, but the throughline across everything I do is systems literacy: Linux, networking, and secure application design.
+
+- Linux administration and shell scripting
+- Networking fundamentals and lab work (Cisco IOU/IOL in GNS3)
+- Secure application development — authentication, session handling, JWT
+- Full-stack development with ASP.NET Core, EF Core, SQL Server
+- Reading source, breaking things in a lab, and figuring out why
+
+### Currently
+
+- Strengthening cybersecurity fundamentals and secure coding practices
+- Running network labs and expanding a self-hosted home lab (Proxmox, OpenWrt, Pi-hole)
+- Building full-stack applications with ASP.NET Core
+- Contributing to team-based software projects
+- Completing the DEPI Fullstack Development (ASP.NET) program
+
+### What I Care About
+
+```text
+Systems & Security
+        │
+        ├── Linux
+        ├── Networking Fundamentals
+        ├── Secure Authentication
+        └── Secure Systems Design
+             │
+             └── Software Engineering
+                  ├── Clean Architecture
+                  ├── APIs & Databases
+                  ├── Testing & Reliability
+                  └── Scalable Applications
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**💡 Languages**
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,html,css&theme=dark&perline=8)](https://skillicons.dev)
-
-<br/>
-
-**🌐 Frameworks**
-
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,dotnet,flask,fastapi,sqlite&theme=dark&perline=8)](https://skillicons.dev)
-
-<br/>
-
-**🔧 Tools**
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,azure,aws,docker,vscode,visualstudio,postman,neovim,obsidian&theme=dark&perline=11)](https://skillicons.dev)
-
-<br/>
-
-**🖥️ OS & Shell**
-
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,arch,kali,ubuntu,debian,mint,windows,powershell&theme=dark&perline=9)](https://skillicons.dev)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📜 Certifications & Courses
+# Featured Projects
 
 <div align="center">
 
-| Badge | Course | Provider |
-|:---:|---|:---:|
-| 🏆 | **CS50x** — Introduction to Computer Science | Harvard / edX |
-| 🏆 | **CS50 Python** — Introduction to Programming with Python | Harvard / edX |
-| 🏆 | **CS50B** — Computer Science for Business Professionals | Harvard / edX |
-| 🏆 | **MITx 6.00.1** — Intro to CS and Programming Using Python | MIT / edX |
+| Project | Description | Technologies |
+|:---|:---|:---|
+| **Cursus** | AI-powered academic advisor and smart graduation planner with prerequisite analysis and graduation tracking. | C#, ASP.NET Core, EF Core, SQL Server, JavaScript |
+| **ShiftCore Mission Control** | Full-stack release dashboard for projects, sprints, tasks, blockers, and delivery KPIs. | ASP.NET Core, C#, PostgreSQL, React, Docker |
+| **CS50x Projects** | Computer science projects covering algorithms, memory, data structures, SQL, and web development. | C, Python, SQL, Flask, JavaScript |
+| **MITx 6.00.1x** | Python programming projects focused on algorithms, data structures, OOP, and problem solving. | Python, OOP, Algorithms |
+| **CS50P** | Python projects covering testing, file I/O, regular expressions, OOP, and concurrent programming. | Python, pytest, threading |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### Cursus
+**AI-Powered Academic Advisor & Smart Graduation Planner**
 
-## 📊 GitHub Stats
+A DEPI graduation project designed to help university students understand prerequisite dependencies, track academic progress, and plan their path toward graduation.
 
-<div align="center">
+**Architecture:** 4-layer N-tier architecture
+**Key technologies:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, ASP.NET Identity, Cytoscape.js, OpenAI API, GitHub Actions.
 
-![Followers](https://img.shields.io/github/followers/tawfik0x00?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1f6feb)
-![Stars](https://img.shields.io/github/stars/tawfik0x00?style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=1f6feb)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftawfik0x00&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=white&label=Public%20Repos&color=1f6feb)
+[View Project →](YOUR_CURSUS_URL)
 
-<br/>
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tawfik0x00&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e)](https://git.io/streak-stats)
+### ShiftCore Mission Control
+**Full-Stack Release & Project Management Dashboard**
 
-<br/>
+A team-based full-stack system for tracking projects, sprints, tasks, blockers, delivery KPIs, and weekly summaries.
 
-[![Tawfik's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tawfik0x00&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+My contribution focused on the Identity API — authentication, user management, RS256-based JWT authentication, session management, and Entity Framework Core integration.
 
-</div>
+**Key technologies:** C#, ASP.NET Core, EF Core, PostgreSQL, React, Docker.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+[View Project →](YOUR_SHIFTCORE_URL)
 
-<h2>
-  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="30" alt="Snake Icon" />
-  GitHub Activity
-</h2>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/3bdo-Yahya/3bdo-Yahya/output/github-snake-dark.svg" alt="GitHub Snake" />
+### CS50x
+**Computer Science & Software Engineering Projects**
+
+A collection of implementations and projects developed while completing Harvard's CS50x.
+
+- **Tideman** — graph-based ranked-choice voting
+- **Speller** — hash tables, pointers, and memory management in C
+- **Fiftyville** — relational database investigation using SQL
+- **Finance** — Flask web application with SQL, authentication, and API integration
+
+[View Repository →](YOUR_CS50X_URL)
+
+---
+
+### MITx 6.00.1x
+**Python Programming & Computer Science Projects**
+
+- **Cipher** — object-oriented Caesar cipher implementation
+- **Wordgame** — modular word game with validation and scoring
+- **Hangman** — command-line Python game
+
+[View Repository →](YOUR_MITX_URL)
+
+---
+
+### CS50P
+**Python Programming Projects**
+
+Covers testing, file I/O, regular expressions, OOP, and a final project involving concurrent file searching.
+
+[View Repository →](YOUR_CS50P_URL)
+
+---
+
+# Technical Skills
+
+### Systems & Security
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,kali,ubuntu,debian,arch" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+**Linux · Bash · PowerShell · Networking Fundamentals · Cybersecurity**
+
+### Backend & .NET
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" />
+</p>
+
+**C# · ASP.NET Core · Entity Framework Core · REST APIs · ASP.NET Identity**
+
+### Programming & Computer Science
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,py" />
+</p>
+
+**C · C++ · Python · Algorithms · Data Structures · Object-Oriented Programming**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,postgresql" />
+</p>
+
+**SQL Server · PostgreSQL · SQLite · Entity Framework Core**
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
+
+**HTML · CSS · JavaScript · Bootstrap · Razor**
+
+### DevOps & Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure,aws,postman" />
+</p>
+
+**Git · GitHub · Docker · GitHub Actions · Azure · AWS · Postman**
+
+---
+
+# Certifications & Learning
+
+| Certification / Course | Provider |
+|:---|:---|
+| **Pre Security Learning Path** | TryHackMe |
+| **Introduction to Cybersecurity Bootcamp — Cohort 7** | CyberTalents |
+| **Computer Network Fundamentals** | ITI / Mahara-Tech |
+| **CS50x — Introduction to Computer Science** | HarvardX |
+| **CS50's Introduction to Programming with Python** | CS50 |
+| **CS50's Computer Science for Business Professionals** | CS50 |
+| **MITx 6.00.1x — Introduction to Computer Science and Programming Using Python** | MITx |
+| **InnovEgypt Program** | ITIDA / TIEC |
+
+For selected coursework and implementations, visit my GitHub repositories.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d1117&height=100&section=footer&animation=fadeIn" />
+<a href="https://github.com/tawfik0x00">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tawfik0x00&theme=github_dark"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+</a>
 
-⭐ **If you like what I build, consider giving a star!** ⭐
+<br/>
 
-**Let's connect and build something great together 🚀**
+<a href="https://github.com/tawfik0x00">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tawfik0x00&theme=github_dark"
+    alt="Repositories per Language"
+    width="49%"
+  />
+</a>
+
+<a href="https://github.com/tawfik0x00">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tawfik0x00&theme=github_dark"
+    alt="Most Used Languages by Commits"
+    width="49%"
+  />
+</a>
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<a href="https://github.com/tawfik0x00">
+  <img
+    src="https://raw.githubusercontent.com/tawfik0x00/tawfik0x00/gh-pages/github-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</a>
 
 </div>
