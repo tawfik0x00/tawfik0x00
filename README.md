@@ -48,16 +48,24 @@ var MohamedTawfik = new Developer {
 > A team-based full-stack project management dashboard tracking sprints and KPIs across a multi-service architecture. 
 > **My Contribution:** Developed the **Identity API** utilizing ASP.NET Core and EF Core. Implemented secure user management, RS256 JWT authentication, and HttpOnly cookie-based sessions.
 
-### 🔍 [Smart Threaded File Search](https://github.com/tawfik0x00/cs50-python)
-**Tech:** `Python`, `Multithreading`, `pytest`
-> A concurrent file search tool employing a producer-consumer architecture. Designed with thread-safe queues, synchronization locking, binary file detection, and real-time progress statistics. *(CS50P Final Project)*
+### 🔍 [CS50P — Smart Threaded File Search](https://github.com/tawfik0x00/cs50-python)
+**Tech:** `Python`, `Multithreading`, `pytest`, `Regex`
+> A high-performance concurrent file search tool representing a step beyond basic Python exercises.
+> - Implemented a **producer-consumer architecture** using thread-safe queues and synchronization locking.
+> - Features binary file detection, regex filtering, and real-time progress statistics.
 
-### 💻 [Foundational CS Projects (CS50x & MITx)](https://github.com/tawfik0x00/CS50X)
-**Tech:** `C`, `Python`, `SQL`, `Flask`
-> Strong computer science foundations built through Harvard and MIT coursework:
-> - **Tideman:** Ranked-choice voting system using graph algorithms (C).
-> - **Speller:** Spell checker using hashing, pointers, and manual memory management (C).
-> - **Cipher:** Object-oriented Caesar cipher supporting automated shift analysis (Python).
+### 🏛️ [Harvard CS50x — Computer Science Foundations](https://github.com/tawfik0x00/CS50X)
+**Tech:** `C`, `Python`, `SQL`, `Flask`, `JavaScript`
+> Built strong foundations in algorithms, data structures, and memory management through rigorous Harvard coursework:
+> - **Tideman:** Ranked-choice voting system using complex graph algorithms (C).
+> - **Speller:** High-performance spell checker using hashing, pointers, and manual memory management (C).
+> - **Fiftyville & Finance:** Relational database investigation and a full-stack stock trading web application with secure authentication (SQL, Flask).
+
+### 🧮 [MITx 6.00.1x — CS and Programming Using Python](https://github.com/tawfik0x00/MITx-6.00.1x)
+**Tech:** `Python`, `OOP`, `Algorithms`
+> Advanced problem-solving emphasizing computational thinking and object-oriented programming.
+> - **Cipher:** Object-oriented Caesar cipher supporting encryption, decryption, classes, inheritance, and automated shift analysis.
+> - **Wordgame & Hangman:** Modular game logic focused on structured data, testing, and control flow.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -65,8 +73,20 @@ var MohamedTawfik = new Developer {
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
   Tech Stack
 </h2>
+
+<h3 align="center">Core & Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,c,cpp,js,html,css,bootstrap,flask,postgres,sqlite,git,github,gitlab,docker,linux,ubuntu,debian,kali,powershell,bash,vscode,visualstudio,azure,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,python,js,postgres,sqlite&perline=10" />
+</p>
+
+<h3 align="center">Frontend & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,react,nodejs&perline=10" />
+</p>
+
+<h3 align="center">Infrastructure, Security & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,bash,powershell,docker,git,github,gitlab,azure,aws,vscode,visualstudio&perline=15" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
