@@ -62,10 +62,23 @@ var MohamedTawfik = new Developer {
 
 <p align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tawfik0x00&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tawfik0x00&theme=radical&hide_border=true&show_icons=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfik0x00&theme=radical&hide_border=true&bg_color=0D1117&layout=compact" />
 </p>
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <h2>🤝 Let's Connect & Collaborate</h2>
+  <p>I'm currently <strong>Open to Work</strong> and always eager to contribute to open-source projects or collaborate on new ideas.</p>
+  
+  <a href="https://linkedin.com/in/m0hamedtawfik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/tawfik0x00">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
