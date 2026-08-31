@@ -136,9 +136,6 @@ var MohamedTawfik = new Developer {
   <a href="https://linkedin.com/in/m0hamedtawfik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/tawfik0x00">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </div>
 
 <div align="center">
