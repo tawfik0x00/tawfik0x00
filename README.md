@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Tawfik&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20.NET%20Developer&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello+World!+I'm+Mohamed.;Computer+Science+Student;Performance-Oriented+Full-Stack+Developer;ASP.NET+Core+%26+EF+Core;Exploring+Cybersecurity+%26+Secure+Systems.;Building+Scalable+Web+Apps.;Happy+Coding!+(0_0)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello+World!+I'm+Mohamed.;4th-Year+Computer+Science+Student;Full-Stack+.NET+Developer;Building+Secure+%26+Reliable+Software.;Understanding+the+Fundamentals.;ASP.NET+Core+%26+EF+Core;Exploring+Cybersecurity." alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -22,13 +22,42 @@
 
 ```csharp
 var MohamedTawfik = new Developer {
-    Name      = "Mohamed Tawfik",
-    Role      = "Full-Stack .NET Developer",
-    Education = "4th Year Computer Science Student",
-    Focus     = new[] { "ASP.NET Core", "Entity Framework Core", "REST APIs", "Secure Systems" },
-    Interests = new[] { "Cybersecurity", "Linux", "Computer Networking" }
+    Name       = "Mohamed Tawfik",
+    Role       = "Full-Stack .NET Developer",
+    Education  = "4th-Year Computer Science Student",
+    Philosophy = "I build software, understand the fundamentals behind it, and care about how securely and reliably it works.",
+    Focus      = new[] { "ASP.NET Core", "Entity Framework Core", "REST APIs", "Software Architecture" },
+    Interests  = new[] { "Cybersecurity", "Secure Systems", "Linux", "Networking" }
 };
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" style="vertical-align: middle;">
+  Featured Projects
+</h2>
+
+### 🎓 [Cursus — AI-Powered Academic Advisor](https://github.com/3bdo-Yahya/Cursus)
+**Tech:** `C#`, `ASP.NET Core MVC`, `EF Core`, `SQL Server`, `ASP.NET Identity`
+> A full-stack web platform modeling university prerequisite dependencies to provide intelligent academic planning. Implemented a strict **4-layer N-tier architecture** (Presentation → Business Logic → Data Access → Domain). 
+> *Team DEPI Graduation Project.*
+
+### 🚀 [ShiftCore Mission Control](https://github.com/Shift-Core/ShiftCore-Mission-Control)
+**Tech:** `ASP.NET Core Identity`, `PostgreSQL`, `React`, `Node.js`, `Docker`
+> A team-based full-stack project management dashboard tracking sprints and KPIs across a multi-service architecture. 
+> **My Contribution:** Developed the **Identity API** utilizing ASP.NET Core and EF Core. Implemented secure user management, RS256 JWT authentication, and HttpOnly cookie-based sessions.
+
+### 🔍 [Smart Threaded File Search](https://github.com/tawfik0x00/cs50-python)
+**Tech:** `Python`, `Multithreading`, `pytest`
+> A concurrent file search tool employing a producer-consumer architecture. Designed with thread-safe queues, synchronization locking, binary file detection, and real-time progress statistics. *(CS50P Final Project)*
+
+### 💻 [Foundational CS Projects (CS50x & MITx)](https://github.com/tawfik0x00/CS50X)
+**Tech:** `C`, `Python`, `SQL`, `Flask`
+> Strong computer science foundations built through Harvard and MIT coursework:
+> - **Tideman:** Ranked-choice voting system using graph algorithms (C).
+> - **Speller:** Spell checker using hashing, pointers, and manual memory management (C).
+> - **Cipher:** Object-oriented Caesar cipher supporting automated shift analysis (Python).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -39,6 +68,16 @@ var MohamedTawfik = new Developer {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,python,c,cpp,js,html,css,bootstrap,flask,postgres,sqlite,git,github,gitlab,docker,linux,ubuntu,debian,kali,powershell,bash,vscode,visualstudio,azure,aws&perline=10" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png" width="30" style="vertical-align: middle;" />
+  Continuous Learning & Security
+</h2>
+
+<p>I am actively building a foundation in <strong>Cybersecurity, Linux, and Secure Systems</strong>. My goal is to understand how applications can be designed not only to work correctly but to be secure, maintainable, and reliable from the ground up.</p>
+<p><strong>Key Learning Paths:</strong> <code>Harvard CS50x</code>, <code>MITx 6.00.1x</code>, <code>CS50P</code>, <code>TryHackMe Pre Security</code>, <code>CyberTalents Bootcamp</code>.</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -71,6 +110,9 @@ var MohamedTawfik = new Developer {
   <h2>🤝 Let's Connect & Collaborate</h2>
   <p>I'm currently <strong>Open to Work</strong> and always eager to contribute to open-source projects or collaborate on new ideas.</p>
   
+  <a href="mailto:mohamed.tawfik.dev@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://linkedin.com/in/m0hamedtawfik">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
