@@ -1,86 +1,143 @@
 <div align="center">
 
-# Mohamed Tawfik
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=180&section=header&text=Mohamed%20Tawfik&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Full-Stack%20.NET%20Developer&descAlignY=55&descSize=18" />
 
-### Computer Science Student · Full-Stack .NET Developer · Cybersecurity Enthusiast
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=1000&lines=Hello+World!+I'm+Mohamed.;4th-Year+Computer+Science+Student;Full-Stack+.NET+Developer;Building+Secure+%26+Reliable+Software.;Understanding+the+Fundamentals.;ASP.NET+Core+%26+EF+Core;Exploring+Cybersecurity." alt="Typing SVG" />
+</a>
 
-<p>
-  <a href="https://tawfik-portfolio.vercel.app">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/m0hamedtawfik/">LinkedIn</a> ·
-  <a href="https://github.com/tawfik0x00">GitHub</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tawfik0x00&label=Profile%20Views&color=00f7ff&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tawfik0x00?label=Followers&style=for-the-badge&color=blue&logo=github" alt="followers" />
+  <img src="https://img.shields.io/github/stars/tawfik0x00?label=Total%20Stars&style=for-the-badge&color=yellow&logo=github" alt="stars" />
 </p>
 
 </div>
 
-## About me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I am a Computer Science student focused on building reliable, maintainable, and secure software. My main development path is **C# and .NET**, with practical experience in web applications, REST APIs, databases, authentication, and layered architecture.
+<div>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px" style="vertical-align: middle;"> About Me</h2>
+</div>
 
-I am also developing my cybersecurity foundation through Linux, networking, OSINT, FortiGate configuration, VLAN segmentation, firewall policies, and site-to-site IPsec VPN labs.
+```csharp
+var MohamedTawfik = new Developer {
+    Name       = "Mohamed Tawfik",
+    Role       = "Full-Stack .NET Developer",
+    Education  = "4th-Year Computer Science Student",
+    Philosophy = "I build software, understand the fundamentals behind it, and care about how securely and reliably it works.",
+    Focus      = new[] { "ASP.NET Core", "Entity Framework Core", "REST APIs", "Software Architecture" },
+    Interests  = new[] { "Cybersecurity", "Secure Systems", "Linux", "Networking" }
+};
+```
 
-- Building with **ASP.NET Core, EF Core, SQL Server, and PostgreSQL**
-- Learning secure system design, networking, and application security
-- Interested in backend engineering, software architecture, and security-minded development
-- Open to internships, junior opportunities, open-source work, and collaboration
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Featured projects
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" style="vertical-align: middle;">
+  Featured Projects
+</h2>
 
-### [Cursus — AI-Powered Academic Advisor](https://github.com/tawfik0x00/Cursus)
-A DEPI graduation project that helps university students understand prerequisite dependencies, track graduation progress, and plan academic recovery paths.
+### 🎓 [Cursus — AI-Powered Academic Advisor](https://github.com/3bdo-Yahya/Cursus)
+**Tech:** `C#`, `ASP.NET Core MVC`, `EF Core`, `SQL Server`, `ASP.NET Identity`
+> A full-stack web platform modeling university prerequisite dependencies to provide intelligent academic planning. Implemented a strict **4-layer N-tier architecture** (Presentation → Business Logic → Data Access → Domain). 
+> *Team DEPI Graduation Project.*
 
-**ASP.NET Core 10 · C# · EF Core · SQL Server · ASP.NET Identity · OpenAI API · Cytoscape.js**
+### 🚀 [ShiftCore Mission Control](https://github.com/Shift-Core/ShiftCore-Mission-Control)
+**Tech:** `ASP.NET Core Identity`, `PostgreSQL`, `React`, `Node.js`, `Docker`
+> A team-based full-stack project management dashboard tracking sprints and KPIs across a multi-service architecture. 
+> **My Contribution:** Developed the **Identity API** utilizing ASP.NET Core and EF Core. Implemented secure user management, RS256 JWT authentication, and HttpOnly cookie-based sessions.
 
-### [FortiGate Secure Site-to-Site Lab](https://github.com/tawfik0x00/fortigate-secure-site-to-site-lab)
-A multi-site network security lab built with GNS3 and QEMU/KVM. It covers VLAN segmentation, routing, firewall policies, NAT, and an IPsec VPN between two branch networks.
+### 🔍 [CS50P — Smart Threaded File Search](https://github.com/tawfik0x00/cs50-python)
+**Tech:** `Python`, `Multithreading`, `pytest`, `Regex`
+> A high-performance concurrent file search tool representing a step beyond basic Python exercises.
+> - Implemented a **producer-consumer architecture** using thread-safe queues and synchronization locking.
+> - Features binary file detection, regex filtering, and real-time progress statistics.
 
-**FortiGate · GNS3 · Linux · VLANs · Network Security · IPsec VPN**
+### 🏛️ [Harvard CS50x — Computer Science Foundations](https://github.com/tawfik0x00/CS50X)
+**Tech:** `C`, `Python`, `SQL`, `Flask`, `JavaScript`
+> Built strong foundations in algorithms, data structures, and memory management through rigorous Harvard coursework:
+> - **Tideman:** Ranked-choice voting system using complex graph algorithms (C).
+> - **Speller:** High-performance spell checker using hashing, pointers, and manual memory management (C).
+> - **Fiftyville & Finance:** Relational database investigation and a full-stack stock trading web application with secure authentication (SQL, Flask).
 
-### [Full-Stack .NET Learning Projects](https://github.com/tawfik0x00/DEPI_DOTNET)
-Practice projects from the Digital Egypt Pioneers Initiative, covering C# fundamentals, OOP, SQL database design, LINQ, and Entity Framework Core.
+### 🧮 [MITx 6.00.1x — CS and Programming Using Python](https://github.com/tawfik0x00/MITx-6.00.1x)
+**Tech:** `Python`, `OOP`, `Algorithms`
+> Advanced problem-solving emphasizing computational thinking and object-oriented programming.
+> - **Cipher:** Object-oriented Caesar cipher supporting encryption, decryption, classes, inheritance, and automated shift analysis.
+> - **Wordgame & Hangman:** Modular game logic focused on structured data, testing, and control flow.
 
-### [Bilingual Developer Portfolio](https://github.com/tawfik0x00/Portofolio)
-A responsive Arabic/English portfolio website with RTL support, certificate pages, animations, and centralized JSON content management.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**React · TypeScript · Tailwind CSS · Framer Motion · Vite**
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align: middle;" />
+  Tech Stack
+</h2>
 
-### [CS50x and CS50P Solutions](https://github.com/tawfik0x00/CS50X) · [Python Search Tool](https://github.com/tawfik0x00/cs50-python)
-Coursework and projects that strengthened my foundations in algorithms, data structures, C, Python, SQL, Flask, memory management, regular expressions, testing, and multithreading.
-
-## Technical skills
-
-| Area | Technologies |
-| --- | --- |
-| Backend | C#, .NET, ASP.NET Core, MVC, REST APIs, Entity Framework Core, LINQ |
-| Frontend | HTML, CSS, JavaScript, React, TypeScript, Bootstrap, Tailwind CSS |
-| Databases | SQL Server, PostgreSQL, SQLite, relational database design |
-| Security & networking | Linux, FortiGate, GNS3, VLANs, firewall policies, NAT, IPsec, OSINT |
-| Programming | C, C++, Python, object-oriented programming, algorithms, data structures |
-| Tools | Git, GitHub, Docker, Bash, PowerShell, Visual Studio, VS Code |
-
-## Learning focus
-
-- Designing layered and maintainable .NET applications
-- Building secure authentication and authorization flows
-- Improving API, database, and software architecture skills
-- Practicing network segmentation and defensive security fundamentals
-
-## Education and coursework
-
-- Digital Egypt Pioneers Initiative — Full-Stack .NET
-- NTI Fortinet Cybersecurity Track — Final project: secure multi-site network lab
-- Harvard CS50x — Introduction to Computer Science
-- Harvard CS50P — Introduction to Programming with Python
-- MITx 6.00.1x — Introduction to Computer Science and Programming Using Python
-
-## GitHub activity
-
+<h3 align="center">Core & Backend</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawfik0x00&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Mohamed Tawfik's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfik0x00&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,c,cpp,python,js,postgres,sqlite&perline=10" />
 </p>
 
+<h3 align="center">Frontend & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask,react,nodejs&perline=10" />
+</p>
+
+<h3 align="center">Infrastructure, Security & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,kali,bash,powershell,docker,git,github,gitlab,azure,aws,vscode,visualstudio&perline=15" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png" width="30" style="vertical-align: middle;" />
+  Continuous Learning & Security
+</h2>
+
+<p>I am actively building a foundation in <strong>Cybersecurity, Linux, and Secure Systems</strong>. My goal is to understand how applications can be designed not only to work correctly but to be secure, maintainable, and reliable from the ground up.</p>
+<p><strong>Key Learning Paths:</strong> <code>Harvard CS50x</code>, <code>MITx 6.00.1x</code>, <code>CS50P</code>, <code>TryHackMe Pre Security</code>, <code>CyberTalents Bootcamp</code>.</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/snake_1f40d.gif" width="30" style="vertical-align: middle;" alt="Snake Icon" />
+  GitHub Activity
+</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawfik0x00/tawfik0x00/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawfik0x00/tawfik0x00/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/tawfik0x00/tawfik0x00/output/github-snake.svg">
+  </picture>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" style="vertical-align: middle;" alt="Git"> GitHub Statistics
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawfik0x00&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" />
+</p>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
+  <h2>🤝 Let's Connect & Collaborate</h2>
+  <p>I'm currently <strong>Open to Work</strong> and always eager to contribute to open-source projects or collaborate on new ideas.</p>
+  
+  <a href="mailto:mohamed.tawfik.dev@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/m0hamedtawfik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-**Interested in working together?** Reach out through [LinkedIn](https://www.linkedin.com/in/m0hamedtawfik/) or explore my [portfolio](https://tawfik-portfolio.vercel.app).
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,28&height=100&section=footer" />
 </div>
